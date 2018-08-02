@@ -17,6 +17,11 @@
   {
     "id": "x",
     "recipient": "dwhanger@hotmail.com",
+    "quote": "Serverless, serverless....it's everywhere, it's everywhere!- Darren Whanger."
+  },
+  {
+    "id": "x",
+    "recipient": "dwhanger@hotmail.com",
     "quote": "Software is a great combination between artistry and engineering. - Bill Gates."
   }
 ]

@@ -19,7 +19,7 @@ namespace Siliconvalve.FunctionDemo01
         {
             return new HttpResponseMessage(HttpStatusCode.OK)
             {
-                Content = new StringContent(Assembly.GetExecutingAssembly().GetName().Version.ToString())
+                Content = new StringContent(Assembly.GetExecutingAssembly().GetName().Version.ToString()+"==BuildVersion")
             };
         }
     }
